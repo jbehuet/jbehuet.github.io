@@ -12,7 +12,7 @@
   --bg-color: #f8f8fa;
   --code-bg-color: #f0e8e8;
   --code-bg-color: #f0e8e8;
-  --red-color: #DC3B3B;
+  --red-color: #dc3b3b;
 }
 
 /* normalized */
@@ -109,6 +109,7 @@ hr {
 
 .link:hover {
   color: var(--accent-color);
+  text-decoration: underline;
 }
 
 .link--dark {
@@ -195,6 +196,9 @@ nav {
   padding: 1rem;
   display: inline-block;
 }
+.menu__item > a:hover {
+  text-decoration: none;
+}
 
 .menu__item.toggle {
   display: none;
@@ -271,10 +275,10 @@ table td:first-child {
 }
 
 .footer--links {
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style: none;
 }
 
 .footer--links__item {
@@ -282,7 +286,7 @@ table td:first-child {
   display: inline-block;
 }
 
-.footer--links__item > a:hover{
+.footer--links__item > a:hover {
   text-decoration: underline;
 }
 
