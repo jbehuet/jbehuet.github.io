@@ -18,7 +18,7 @@ const Layout = ({ children }) => {
       <footer className="footer">
         <ul className="footer--links">
           <li className="footer--links__item">
-            make with <i className="fa fa-heart text--red"></i> and <a href="https://www.gatsbyjs.org/" className="link link--white">Gatsby</a>
+            made with <i className="fa fa-heart text--red"></i> and <a href="https://www.gatsbyjs.org/" className="link link--white">Gatsby</a>
           </li>
         </ul>
       </footer>
