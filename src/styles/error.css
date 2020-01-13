@@ -1,0 +1,51 @@
+.block-error {
+  position: relative;
+  margin-top: 54px;
+  height: calc(100vh - 140px);
+}
+
+.block-error > .error {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+  max-width: 520px;
+  width: 100%;
+  line-height: 1.4;
+  text-align: center;
+}
+
+.block-error > .error > .content {
+  position: relative;
+  height: 200px;
+  margin: 0px auto 20px;
+  z-index: -1;
+}
+
+.block-error > .error > .content > h1 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 236px;
+  font-weight: 200;
+  margin: 0px;
+  color: var(--primary-color);
+  text-transform: uppercase;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.block-error > .error > .content > h2 {
+  font-size: 24px;
+  font-weight: 400;
+  text-transform: uppercase;
+  color: var(--white-color);
+  background: var(--light-gray-color);
+  padding: 10px 5px;
+  margin: auto;
+  display: inline-block;
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+}

@@ -1,0 +1,257 @@
+/* nav specialized to landing page */
+nav {
+  background-color: var(--bg-color);
+}
+
+/* header section */
+.header {
+  text-align: center;
+  background-color: var(--bg-color);
+  padding: 2rem 0 10rem 0;
+}
+
+.header__title {
+  font-weight: 900;
+  color: var(--primary-color);
+}
+
+.header__description {
+  margin: -1rem auto 2rem auto;
+}
+
+/* hero section */
+.hero__terminal {
+  margin: -11rem auto 1rem auto;
+  text-align: left;
+  font-size: 16px;
+  padding: 0 1rem;
+  background-color: var(--primary-color);
+  min-height: 250px;
+  animation: fadeUp 2s;
+}
+
+.hero__terminal pre {
+  white-space: pre-line;
+  padding-top: 1rem;
+}
+
+.hljs {
+  background-color: var(--primary-color) !important;
+}
+
+/* feature section */
+.feature {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.feature__item {
+  max-width: calc(33% - 20px);
+  margin: 0 20px 0 0;
+}
+
+.feature__item .section__title {
+  margin-bottom: 0;
+}
+
+.feature__item p {
+  margin-top: 0.5rem;
+}
+
+/* section title */
+.section--title {
+  text-align: center;
+  padding-bottom: 1rem;
+}
+
+.section--title h2 {
+  margin-bottom: 0;
+}
+
+.section--title p {
+  font-style: italic;
+}
+
+/* portefolio section */
+.folio {
+  display: flex;
+  width: 100vw;
+  height: 350px;
+  margin-left: -50vw;
+  left: 50%;
+  position: relative;
+}
+
+.folio__detail {
+  position: relative;
+  flex-basis: 50%;
+  padding: 1rem 1rem 1rem 1rem;
+  list-style: none;
+  margin: 0;
+}
+
+.folio__detail.folio__description {
+  line-height: 2rem;
+}
+
+.folio__detail:first-child .folio__title {
+  /* position: absolute;
+  left: 0;
+  top: -2rem;
+  background-color: white; */
+  margin: 0;
+}
+
+.folio__detail:last-child .folio__title {
+  /* position: absolute;
+  left: 0.5rem;
+  top: -2rem;
+  background-color: white;
+  padding: 0 0.5rem; */
+  margin: 0;
+}
+
+/* callout section */
+.callout {
+  text-align: center;
+  padding: 1rem 0 3rem 0;
+}
+
+.callout .button--primary {
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+/* cv section */
+.cv {
+  background-color: var(--bg-color);
+  padding: 2rem 0;
+}
+
+.cv__wrapper {
+  margin: 0 auto;
+  width: 90%;
+  overflow: hidden;
+}
+
+.cv__item {
+  display: flex;
+}
+
+.cv__meta {
+  flex-basis: 25%;
+}
+
+.cv__meta small {
+  color: var(--primary-color-light);
+  font-weight: 200;
+  letter-spacing: 1px;
+}
+
+.cv__title {
+  margin-bottom: 0;
+}
+
+.cv__callout {
+  margin: 3rem auto 2rem auto;
+  text-align: center;
+}
+
+@media (max-width: 750px) {
+  .tab__container > ul {
+    right: auto;
+    left: 0;
+    padding-left: 0;
+  }
+  .tab__container .code {
+    margin-top: 2rem;
+  }
+  .feature,
+  .folio,
+  .cv__item {
+    flex-direction: column;
+  }
+  .feature__item {
+    max-width: 100%;
+    margin: 0;
+  }
+  .folio {
+    font-size: 0.8rem;
+  }
+  .folio__detail.folio__description {
+    line-height: inherit;
+  }
+}
+
+/* */
+
+.posts {
+  max-width: 1240px;
+  margin: 0 auto;
+
+  display: grid;
+
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-gap: 20px;
+}
+
+@media only screen and (min-width: 500px) {
+  .posts {
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media only screen and (min-width: 850px) {
+  .posts {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
+/* card */
+
+.card {
+  min-height: 100%;
+  background: white;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: #444;
+  position: relative;
+  top: 0;
+  transition: all 0.1s ease-in;
+}
+
+.card:hover {
+  top: -2px;
+  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
+}
+
+.card article {
+  padding: 20px;
+  display: flex;
+
+  flex: 1;
+  justify-content: space-between;
+  flex-direction: column;
+}
+.card .thumb {
+  padding-bottom: 60%;
+  background-size: cover;
+  background-position: center center;
+}
+
+.card p {
+  flex: 1; /* make p grow to fill available space*/
+  line-height: 1.4;
+}
+
+.card span {
+  font-size: 12px;
+  font-weight: bold;
+  color: #999;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin: 2em 0 0 0;
+}
