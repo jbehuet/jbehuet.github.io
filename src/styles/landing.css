@@ -114,7 +114,7 @@ nav {
 /* callout section */
 .callout {
   text-align: center;
-  padding: 1rem 0 3rem 0;
+  padding: 1rem 0;
 }
 
 .callout .button--primary {
@@ -125,7 +125,7 @@ nav {
 /* cv section */
 .cv {
   background-color: var(--bg-color);
-  padding: 2rem 0;
+  padding: 1rem 0;
 }
 
 .cv__wrapper {
@@ -187,7 +187,7 @@ nav {
 
 .posts {
   max-width: 1240px;
-  margin: 0 auto;
+  margin: 1rem auto;
 
   display: grid;
 
