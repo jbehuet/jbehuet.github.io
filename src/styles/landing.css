@@ -27,7 +27,7 @@ nav {
   padding: 0 1rem;
   background-color: var(--primary-color);
   min-height: 250px;
-  animation: fadeUp 2s;
+  /* animation: fadeUp 2s; */
 }
 
 .hero__terminal pre {
@@ -73,33 +73,105 @@ nav {
 }
 
 /* portefolio section */
-.folio {
+.project {
+  padding: 3rem 0;
+  position: relative;
+}
+
+.project > .inner {
   display: flex;
-  width: 100vw;
-  height: 350px;
-  margin-left: -50vw;
-  left: 50%;
-  position: relative;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 auto;
+  max-width: 80rem;
+  width: calc(100% - 4rem);
 }
 
-.folio__detail {
+.project.even > .inner {
+  flex-direction: row-reverse;
+}
+
+.project.odd .image {
+  right: 0;
+}
+
+.project.even .image {
+  left: 0;
+}
+
+.project .image {
+  border-radius: 0;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  width: 50%;
+}
+
+.project .content {
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  padding: 2.5rem 5rem;
+  transition: opacity 0.5s ease-out, transform 0.5s ease-out;
+  background-color: #fff;
+  color: var(--primary-color);
+  border-radius: 4px;
   position: relative;
-  flex-basis: 50%;
-  padding: 1rem 1rem 1rem 1rem;
+  z-index: 1;
+  width: 55%;
+}
+
+.project .content > ul {
   list-style: none;
-  margin: 0;
+  padding: 0;
 }
 
-.folio__detail.folio__description {
+.project .content > ul > li {
   line-height: 2rem;
 }
 
-.folio__detail:first-child .folio__title {
-  margin: 0;
+.project .image img {
+  object-fit: cover;
+  border-radius: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
-.folio__detail:last-child .folio__title {
-  margin: 0;
+@media screen and (max-width: 980px) {
+  .project {
+    padding: 0;
+    text-align: center;
+  }
+
+  .project > .inner {
+    display: block;
+    max-width: none;
+    width: 100%;
+    justify-content: flex-start;
+  }
+
+  .project .image {
+    display: block;
+    height: 40vh;
+    min-height: 20rem;
+    width: 100%;
+    position: relative;
+  }
+
+  .project .content {
+    padding: 0.5rem 2.5rem;
+    border-radius: 0;
+    width: 100%;
+}
+}
+
+.image[data-position="top right"] img {
+  object-position: top right;
+}
+
+.image[data-position="top left"] img {
+  object-position: top left;
 }
 
 /* callout section */
@@ -182,15 +254,9 @@ nav {
 
   display: grid;
 
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   grid-template-rows: auto;
   grid-gap: 20px;
-}
-
-@media only screen and (min-width: 500px) {
-  .posts {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
 }
 
 @media only screen and (min-width: 850px) {

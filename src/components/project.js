@@ -14,33 +14,27 @@ const Project = ({ project, imageOnLeft }) => {
     }
   `)
     const image = allFile.nodes.find(file => file.name === project.imageName);
+
     return (
-        <div className="folio" data-aos="fade">
-            {imageOnLeft &&
-                <ul
-                    className="folio__detail"
-                    style={{ background: `url(${image.publicURL})`, backgroundSize: 'cover' }}
-                ></ul>
-            }
-            <ul
-                className="folio__detail folio__description"
-                style={{ background: project.background, color: '#fbfbfb' }}>
-                <h3 className="folio__title">{project.name}</h3>
-                {project.details.map((detail, i) => <li key={`project_detail_${i}`}>{detail}</li>)}
-                {project.link &&
-                    <li>
-                        <i className="fa fa-globe"></i> <a href={project.link.url} className="link link--white">{project.link.text}</a>
-                    </li>
-                }
-            </ul>
-            {!imageOnLeft &&
-                <ul
-                    className="folio__detail"
-                    style={{ background: `url(${image.publicURL})`, backgroundSize: 'cover' }}
-                ></ul>
-            }
+        <div class={`project ${imageOnLeft ? 'even' : 'odd'}`} style={{ background: project.background }}>
+            <div class="inner">
+                <div class="image" data-position={`top ${imageOnLeft ? 'left' : 'right'}`}>
+                    <img src={image.publicURL} alt="" />
+                </div>
+                <div class="content" data-aos={`fade-up`}>
+                    <h3>{project.name}</h3>
+                    <ul>
+                        {project.details.map((detail, i) => <li key={`project_detail_${i}`}>{detail}</li>)}
+                        {project.link &&
+                            <li>
+                                <i className="fa fa-globe"></i> <a href={project.link.url} className="link link--dark">{project.link.text}</a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
         </div >
-    );
+    )
 }
 
 Project.defaultProps = {

@@ -46,6 +46,10 @@ hr {
   box-sizing: border-box;
 }
 
+h3 {
+  font-size: 1.4rem;
+}
+
 /* global components */
 
 /* typography */
@@ -109,7 +113,6 @@ hr {
 
 .link:hover {
   color: var(--accent-color);
-  text-decoration: underline;
 }
 
 .link--dark {
