@@ -95,19 +95,10 @@ nav {
 }
 
 .folio__detail:first-child .folio__title {
-  /* position: absolute;
-  left: 0;
-  top: -2rem;
-  background-color: white; */
   margin: 0;
 }
 
 .folio__detail:last-child .folio__title {
-  /* position: absolute;
-  left: 0.5rem;
-  top: -2rem;
-  background-color: white;
-  padding: 0 0.5rem; */
   margin: 0;
 }
 
