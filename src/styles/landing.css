@@ -27,7 +27,7 @@ nav {
   padding: 0 1rem;
   background-color: var(--primary-color);
   min-height: 250px;
-  /* animation: fadeUp 2s; */
+  animation: fadeIn 0.1s;
 }
 
 .hero__terminal pre {
