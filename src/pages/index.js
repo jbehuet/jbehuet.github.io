@@ -76,7 +76,7 @@ const IndexPage = () => {
   return (
     <>
       <Layout>
-        <SEO title="Home" />
+        <SEO title="Accueil" />
         <Header />
         <Hero />
         <div className="wrapper">
