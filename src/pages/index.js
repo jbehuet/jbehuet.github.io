@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 import 'aos/dist/aos.css';
 
@@ -16,7 +16,6 @@ import Project from '../components/project';
 import PostItem from '../components/post_item';
 
 const IndexPage = () => {
-  const [posts, setPosts] = useState([]);
   const {
     allExperiencesJson,
     allProjectsJson,
