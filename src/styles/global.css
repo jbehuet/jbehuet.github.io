@@ -160,6 +160,12 @@ nav {
   list-style: none;
 }
 
+.left {
+  left: 0;
+  right: auto;
+  padding: 0;
+}
+
 .toggle {
   display: none;
   position: relative;

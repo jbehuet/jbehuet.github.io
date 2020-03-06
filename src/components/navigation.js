@@ -1,7 +1,13 @@
 import React from "react"
+import { Link } from "gatsby"
 
-const Navigation = () => (
+const Navigation = ({ displayHomeLink }) => (
     <nav>
+        {displayHomeLink &&
+            <ul className="menu left">
+                <li className="menu__item"><Link to="/" className="link link--dark"><i className="fa fa-arrow-left"></i> Accueil</Link></li>
+            </ul>
+        }
         <ul className="menu">
             <div className="menu__item toggle"><span></span></div>
             <li className="menu__item">

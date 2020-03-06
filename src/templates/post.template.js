@@ -10,11 +10,11 @@ export default function Template({
   const { markdownRemark } = data // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark
   return (
-    <Layout>
+    <Layout displayHomeLink={true}>
       <SEO title={frontmatter.title} />
-      <Header noHero={true} />
+      <Header noHero={true}/>
       <div className="wrapper">
-          <article dangerouslySetInnerHTML={{ __html: html }} />
+        <article dangerouslySetInnerHTML={{ __html: html }} />
       </div>
     </Layout>
   )

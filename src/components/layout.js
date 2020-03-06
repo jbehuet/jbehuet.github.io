@@ -10,10 +10,10 @@ import PropTypes from "prop-types"
 
 import Navigation from './navigation';
 
-const Layout = ({ children }) => {
+const Layout = ({ children, displayHomeLink = false }) => {
   return (
     <>
-      <Navigation />
+      <Navigation displayHomeLink={displayHomeLink} />
       {children}
       <footer className="footer">
         <ul className="footer--links">
