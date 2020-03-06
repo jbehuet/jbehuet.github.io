@@ -3,7 +3,7 @@ module.exports = {
     title: `Jerome BEHUET`,
     description: `Développeur passionné, ayant plus de 10ans d'expérience.`,
     keywords: `developpeur,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
-    author: `@jbehuet`,
+    author: `@jbehuet`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -11,8 +11,8 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images`,
-        path: `${__dirname}/src/images`,
-      },
+        path: `${__dirname}/src/images`
+      }
     },
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
@@ -25,7 +25,7 @@ module.exports = {
         background_color: `#263238`,
         theme_color: `#263238`,
         display: `minimal-ui`,
-        icon: `src/images/profil.jpg`, // This path is relative to the root of the site.
+        icon: `src/images/profil.jpg` // This path is relative to the root of the site.
       }
     },
     `gatsby-transformer-json`,
@@ -40,15 +40,15 @@ module.exports = {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `images-posts`,
-        path: `${__dirname}/src/images/posts`,
-      },
+        path: `${__dirname}/src/images/posts`
+      }
     },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
         name: `posts`,
-        path: `${__dirname}/src/posts`,
-      },
+        path: `${__dirname}/src/posts`
+      }
     },
     {
       resolve: `gatsby-transformer-remark`,
@@ -61,9 +61,9 @@ module.exports = {
               linkImagesToOriginal: false,
               showCaptions: true
             }
-          },
+          }
         ]
       }
-    },
-  ],
-}
+    }
+  ]
+};

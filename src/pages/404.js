@@ -1,7 +1,7 @@
-import React from "react"
+import React from 'react';
 import '../styles/error.css';
-import Layout from "../components/layout"
-import SEO from "../components/seo"
+import Layout from '../components/layout';
+import SEO from '../components/seo';
 
 const NotFoundPage = () => (
   <Layout>
@@ -14,10 +14,10 @@ const NotFoundPage = () => (
         </div>
         <a href="/" className="btn btn--secondary_gradient">
           Go to Homepage
-      </a>
+        </a>
       </div>
     </div>
   </Layout>
-)
+);
 
-export default NotFoundPage
+export default NotFoundPage;
