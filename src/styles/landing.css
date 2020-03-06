@@ -10,6 +10,12 @@ nav {
   padding: 2rem 0 10rem 0;
 }
 
+.header__no-hero {
+  text-align: center;
+  background-color: var(--bg-color);
+  padding: 2rem 0;
+}
+
 .header__title {
   font-weight: 900;
   color: var(--primary-color);

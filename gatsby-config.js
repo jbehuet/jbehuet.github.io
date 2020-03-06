@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: `Jerome BEHUET`,
     description: `Développeur passionné, ayant plus de 10ans d'expérience.`,
-    keywords:`developpeur,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
+    keywords: `developpeur,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
     author: `@jbehuet`,
   },
   plugins: [
@@ -32,9 +32,38 @@ module.exports = {
     {
       resolve: `gatsby-source-filesystem`,
       options: {
-        name:`data`,
+        name: `data`,
         path: `${__dirname}/src/data`
       }
-    }
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `images-posts`,
+        path: `${__dirname}/src/images/posts`,
+      },
+    },
+    {
+      resolve: `gatsby-source-filesystem`,
+      options: {
+        name: `posts`,
+        path: `${__dirname}/src/posts`,
+      },
+    },
+    {
+      resolve: `gatsby-transformer-remark`,
+      options: {
+        plugins: [
+          `gatsby-remark-relative-images`,
+          {
+            resolve: `gatsby-remark-images`,
+            options: {
+              linkImagesToOriginal: false,
+              showCaptions: true
+            }
+          },
+        ]
+      }
+    },
   ],
 }

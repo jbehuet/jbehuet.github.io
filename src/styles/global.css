@@ -46,6 +46,16 @@ hr {
   box-sizing: border-box;
 }
 
+h1 {
+  font-size: 2.2rem;
+  font-weight: 400;
+}
+
+h2 {
+  font-size: 1.5rem;
+  font-weight: 300;
+}
+
 h3 {
   font-size: 1.4rem;
 }
