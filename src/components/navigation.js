@@ -5,7 +5,7 @@ const Navigation = ({ displayHomeLink }) => (
     <nav>
         {displayHomeLink &&
             <ul className="menu left">
-                <li className="menu__item"><Link to="/" className="link link--dark"><i className="fa fa-arrow-left"></i> Accueil</Link></li>
+                <li className="menu__item"><Link to="/" className="link link--dark"><i className="fa fa-arrow-left"></i> Retour</Link></li>
             </ul>
         }
         <ul className="menu">
