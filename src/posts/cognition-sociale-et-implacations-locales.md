@@ -3,6 +3,7 @@ path: '/posts/cognition-sociale-et-implacations-locales'
 date: '2019-08-29'
 title: 'Cognition sociale et implications locales'
 subtitle: 'Acteur dans la pénombre, organisation d’évènements, meetups, formations, etc. pourquoi je fais cela ?'
+thumbnail: '../images/posts/cognition-sociale-et-implacations-locales/01.jpeg'
 creator: 'Jérôme BEHUET'
 ---
 

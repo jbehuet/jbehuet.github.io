@@ -14,11 +14,14 @@ import Title from '../components/title';
 import CvItem from '../components/cv_item';
 import Project from '../components/project';
 import PostItem from '../components/post_item';
-import { pageQuery } from '../templates/post.template';
 
 const IndexPage = () => {
   const [posts, setPosts] = useState([]);
-  const { allExperiencesJson, allProjectsJson } = useStaticQuery(
+  const {
+    allExperiencesJson,
+    allProjectsJson,
+    allMarkdownRemark
+  } = useStaticQuery(
     graphql`
       query {
         allExperiencesJson {
@@ -39,6 +42,21 @@ const IndexPage = () => {
             link {
               text
               url
+            }
+          }
+        }
+        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+          nodes {
+            id
+            frontmatter {
+              title
+              subtitle
+              thumbnail {
+                publicURL
+              }
+              date
+              creator
+              path
             }
           }
         }
@@ -118,9 +136,12 @@ const IndexPage = () => {
           </div>
           <Title title="Publications" />
           <div id="posts" className="posts">
-            {posts.map((post, i) => (
-              <PostItem key={`post_${i}`} post={post} />
+            {allMarkdownRemark.nodes.map(post => (
+              <PostItem key={post.id} post={post.frontmatter} />
             ))}
+            {/* {posts.map((post, i) => (
+              <PostItem key={`post_${i}`} post={post} />
+            ))} */}
           </div>
         </div>
         <div className="cv">

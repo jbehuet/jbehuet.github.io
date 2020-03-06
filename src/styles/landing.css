@@ -169,14 +169,14 @@ nav {
     padding: 0.5rem 2.5rem;
     border-radius: 0;
     width: 100%;
-}
+  }
 }
 
-.image[data-position="top right"] img {
+.image[data-position='top right'] img {
   object-position: top right;
 }
 
-.image[data-position="top left"] img {
+.image[data-position='top left'] img {
   object-position: top left;
 }
 
@@ -285,13 +285,18 @@ nav {
   top: 0;
   transition: all 0.1s ease-in;
 }
+.card .title {
+  font-size: 1.5em;
+  margin-block-start: 0.83em;
+  margin-block-end: 0.83em;
+}
 
 .card:hover {
   top: -2px;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
 }
 
-.card article {
+.card .content {
   padding: 20px;
   display: flex;
 

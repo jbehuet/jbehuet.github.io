@@ -17,17 +17,17 @@ const Project = ({ project, imageOnLeft }) => {
 
   return (
     <div
-      class={`project ${imageOnLeft ? 'even' : 'odd'}`}
+      className={`project ${imageOnLeft ? 'even' : 'odd'}`}
       style={{ background: project.background }}
     >
-      <div class="inner">
+      <div className="inner">
         <div
-          class="image"
+          className="image"
           data-position={`top ${imageOnLeft ? 'left' : 'right'}`}
         >
           <img src={image.publicURL} alt="" />
         </div>
-        <div class="content" data-aos={`fade-up`}>
+        <div className="content" data-aos={`fade-up`}>
           <h3>{project.name}</h3>
           <ul>
             {project.details.map((detail, i) => (

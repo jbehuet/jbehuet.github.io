@@ -1,23 +1,22 @@
 import React from 'react';
 import PropTypes from 'prop-types';
+import { Link } from 'gatsby';
 
 const PostItem = ({ post }) => (
   <div data-aos="flip-left">
-    <a className="card" href={post.link}>
+    <Link className="card" to={post.path}>
       <div
         className="thumb"
         style={{
-          backgroundImage: `url(${
-            post['content:encoded'].match(/src=(.+?[.jpg|.jpeg|.gif]")/)[1]
-          })`
+          backgroundImage: `url(${post.thumbnail.publicURL})`
         }}
       />
-      <article>
-        <h1>{post.title}</h1>
-        {post['content:encoded'].split('</h4>')[0].substr(4)}
+      <div className="content">
+        <div className="title">{post.title}</div>
+        {post.subtitle}
         <span>{post.creator}</span>
-      </article>
-    </a>
+      </div>
+    </Link>
   </div>
 );
 

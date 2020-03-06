@@ -3,6 +3,7 @@ path: '/posts/vivre-avec-ses-demons'
 date: '2018-02-02'
 title: 'Vivre avec ses démons'
 subtitle: 'Développeur passionné et autodidacte, l’estime de soi face à ses pairs.'
+thumbnail: '../images/posts/vivre-avec-ses-demons/01.jpeg'
 creator: 'Jérôme BEHUET'
 ---
 
