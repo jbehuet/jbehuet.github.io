@@ -2,23 +2,24 @@
 path: "/posts/vivre-avec-ses-demons"
 date: "2018-02-02"
 title: "Vivre avec ses démons"
+subtitle: "Développeur passionné et autodidacte, l’estime de soi face à ses pairs."
+creator: "Jérôme BEHUET"
 ---
 
-Vivre avec ses démons
-=====================
-Développeur passionné et autodidacte, l’estime de soi face à ses pairs.
------------------------------------------------------------------------
+# Vivre avec ses démons
+
+## Développeur passionné et autodidacte, l’estime de soi face à ses pairs.
+
 6 min read
 
 <img class="dj t u hw ak" src="../images/posts/vivre-avec-ses-demons/01.jpeg" width="5456" height="3505" role="presentation"/>
 
 Depuis maintenant plusieurs années je suis développeur, autodidacte et je n’ai pas de formation en informatique, pour le moment rien de particulier me direz-vous, seulement j’aimerais aborder dans cet article un point que bien souvent nous n’entendons que peu, **l’estime de soi face à ses pairs**.
 
-Estime de soi
-=============
+# Estime de soi
 
 > Estime de soi est un terme désignant le jugement ou l’évaluation faite d’un individu en rapport à sa propre valeur.
-> 
+>
 > [Wikipédia](https://fr.wikipedia.org/wiki/Estime_de_soi)
 
 Pourquoi ce sujet qui semble de prime à bord bien souvent liée à notre expérience personnelle ?
@@ -34,16 +35,15 @@ A quoi servent ces tests de recrutement réellement, quel est l’objectif atten
 Est-il nécessaire de rappeler que le droit français prévoit une période d’essai au contrat de travail ?
 
 > La période d’essai **permet à l’employeur d’évaluer les compétences du salarié** dans son travail, notamment au regard de son expérience, et au salarié d’apprécier si les fonctions occupées lui conviennent.
-> 
+>
 > [Article L1221–20](https://www.legifrance.gouv.fr/affichCodeArticle.do;jsessionid=0744E68D4CE706D287B8DD1412834418.tplgfr31s_2?idArticle=LEGIARTI000019071111&cidTexte=LEGITEXT000006072050&dateTexte=20180105)
 
 Je ne dis pas que tous les tests de recrutement se passent ainsi, car j’estime également qu’il est important d’avoir un échange technique avec le candidat, mais un échange approprié en fonction du candidat issu d’un parcours conventionnel ou bien d’un autodidacte.
 
-Autodidacte
-===========
+# Autodidacte
 
 > Qui s’est instruit par lui-même, sans professeur
-> 
+>
 > [Larousse](http://www.larousse.fr/dictionnaires/francais/autodidacte/6672)
 
 Premier défi en tant qu’autodidacte est de faire face aux acteurs traditionnels, les grands groupes et les ESN, qui demeurent attachés aux diplômes pour lesquels nous n’entrons pas dans leurs _“grilles”_ et pour qui nous sommes des ovnis. Qui bien souvent ne manquera pas de vous rappeler ce manque de diplôme afin de dévaluer si possible votre salaire surtout si vous avez encore peu d’expérience professionnelle, mettant en doute vos compétences, en montrant une certaine méfiance face à votre profil d’autodidacte.
@@ -60,11 +60,10 @@ Et c’est pour moi cette exigence qui met à l’épreuve notre estime de soi f
 
 Je ne vais pas m’attarder sur ce qu’est le syndrome de l’imposteur de nombreux articles en parlent ([article de David Wash](https://davidwalsh.name/impostor-syndrome)), mais c’est bien souvent lui qui se cache derrière les difficultés qui met à mal notre ego et notre estime de soi. Cette petite part de nous qui nous fait sentir illégitime dans notre travail, face à nos pairs, nous bloquant lors de la prise de parole sur un sujet technique ou lors de prises de décisions. Pourtant comme tout à chacun, nous sommes tous faillible et faisons des erreurs.
 
-Tous faillible
-==============
+# Tous faillible
 
 > “L’intolérance n’est de droit que pour l’infaillibilité. Les Hommes ont le devoir d’être mutuellement tolérants, parce qu’ils sont tous faillibles”
-> 
+>
 > **Charles Dollfus**
 
 On peut prendre le parallèle de la situation où l’on rentre chez nous en voiture, notre vigilance sera plus accrue sur des routes inconnues plutôt qu’à quelques kilomètres de notre domicile sur des routes que l’on parcoure quotidiennement. Lorsque l’on code, on est amené à travailler sur des sujets que l’on ne connaît que très peu, nous serons plus attentifs à ce que l’on fait et inversement sur un sujet que l’on maîtrise nous serons plus enclins à faire des erreurs.
@@ -79,8 +78,7 @@ A la suite de cela de nombreux autres développeurs ont répondu à ce tweet en 
 
 Qui n’a jamais été chercher une information qu’il connaît sur Stack Overflow ? Comme si nous cherchions une confirmation, une validation de ce que nous codions, dus à la mésestime de soi. C’est aussi un automatisme que nous avons appris, une déformation à ne pas retenir le code mais plus le concept et les mots-clés qui y sont rattachés afin d’effectuer une recherche efficace.
 
-Conclusion
-==========
+# Conclusion
 
 Il est important de s’estimer soi et son parcours et ne pas chercher à se juger sur des critères qui ne s’applique pas à soi en tant qu’autodidacte, savoir que nous avons une approche moins conventionnelle, un esprit plus pragmatique que théorique.
 
