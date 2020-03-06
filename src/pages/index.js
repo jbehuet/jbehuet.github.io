@@ -76,31 +76,6 @@ const IndexPage = () => {
     });
   }, []);
 
-  useEffect(() => {
-    const xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function(event) {
-      if (this.readyState === XMLHttpRequest.DONE) {
-        if (this.status === 200) {
-          const res = JSON.parse(this.responseText);
-          setPosts(res.items);
-        } else {
-          console.log(
-            'Status de la réponse: %d (%s)',
-            this.status,
-            this.statusText
-          );
-        }
-      }
-    };
-
-    xhr.open(
-      'GET',
-      'https://utils.jbehuet.fr/rss?url=https://medium.com/feed/@jbehuet',
-      true
-    );
-    xhr.send(null);
-  }, []);
-
   return (
     <>
       <Layout>
@@ -134,14 +109,14 @@ const IndexPage = () => {
               <i className="fa fa-envelope"></i> Me contacter
             </a>
           </div>
-          <Title title="Publications" />
+          <Title
+            title="Publications"
+            subtitle="Mes rédactions personnelles publiées."
+          />
           <div id="posts" className="posts">
             {allMarkdownRemark.nodes.map(post => (
               <PostItem key={post.id} post={post.frontmatter} />
             ))}
-            {/* {posts.map((post, i) => (
-              <PostItem key={`post_${i}`} post={post} />
-            ))} */}
           </div>
         </div>
         <div className="cv">
