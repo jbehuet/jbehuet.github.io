@@ -86,18 +86,17 @@ const IndexPage = () => {
         <Hero />
         <div className="wrapper">
           <Title
+            id="projects"
             title="Réalisations"
             subtitle="Quelques un des projets réalisés."
           />
-          <div id="projects">
-            {allProjectsJson.nodes.map((project, i) => (
-              <Project
-                key={project.id}
-                project={project}
-                imageOnLeft={i % 2 === 0}
-              />
-            ))}
-          </div>
+          {allProjectsJson.nodes.map((project, i) => (
+            <Project
+              key={project.id}
+              project={project}
+              imageOnLeft={i % 2 === 0}
+            />
+          ))}
           <div className="callout">
             <p>
               Une question, un projet, une demande particulière où je peux
@@ -114,18 +113,19 @@ const IndexPage = () => {
             </a>
           </div>
           <Title
+            id="posts"
             title="Publications"
             subtitle="Mes rédactions personnelles publiées."
           />
-          <div id="posts" className="posts">
+          <div className="posts">
             {allMarkdownRemark.nodes.map(post => (
               <PostItem key={post.id} post={post.frontmatter} />
             ))}
           </div>
         </div>
-        <div id="cv" className="cv">
+        <div className="cv">
           <div className="cv__wrapper">
-            <Title title="Expériences" />
+            <Title title="Expériences" id="experiences" />
             {allExperiencesJson.nodes.map(experience => (
               <CvItem key={experience.id} experience={experience} />
             ))}
