@@ -44,7 +44,10 @@ const IndexPage = () => {
             }
           }
         }
-        allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
+        allMarkdownRemark(
+          filter: { frontmatter: { draft: { eq: false } } }
+          sort: { order: DESC, fields: [frontmatter___date] }
+        ) {
           nodes {
             id
             frontmatter {

@@ -5,6 +5,7 @@ title: 'Vivre avec ses démons'
 subtitle: 'Développeur passionné et autodidacte, l’estime de soi face à ses pairs.'
 thumbnail: '../images/posts/vivre-avec-ses-demons/01.jpeg'
 creator: 'Jérôme BEHUET'
+draft: false
 ---
 
 # Vivre avec ses démons
