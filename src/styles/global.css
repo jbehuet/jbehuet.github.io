@@ -149,6 +149,11 @@ h3 {
 nav {
   display: grid;
   grid-template-columns: 70px auto;
+  width: 100%;
+  height: 54px;
+  position: fixed;
+  z-index: 999;
+  box-shadow: 0 1px 10px 0 rgba(0, 0, 0, 0.1);
 }
 
 .menu {
@@ -302,7 +307,7 @@ table td:first-child {
 }
 
 .footer--links__item {
-  padding: 0 0.2rem;
+  padding: 0 1rem;
   display: inline-block;
 }
 

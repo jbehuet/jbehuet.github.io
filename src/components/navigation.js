@@ -1,5 +1,6 @@
 import React from 'react';
 import { Link } from 'gatsby';
+import scrollToElement from 'scroll-to-element';
 
 const Navigation = ({ displayHomeLink }) => (
   <nav>
@@ -17,22 +18,61 @@ const Navigation = ({ displayHomeLink }) => (
         <span></span>
       </div>
       <li className="menu__item">
-        <a href="https://github.com/jbehuet" className="link link--dark">
-          <i className="fa fa-github"></i> Github
-        </a>
-      </li>
-      <li className="menu__item">
-        <a
-          href="https://fr.linkedin.com/in/jbehuet"
+        <Link
+          to="/#projects"
           className="link link--dark"
+          onClick={e => {
+            if (typeof window !== 'undefined') {
+              if (window.location.pathname === '/') {
+                if (e) e.preventDefault();
+                scrollToElement('#projects', {
+                  offset: -180, // Offset a fixed header if you please
+                  duration: 1000
+                });
+              }
+            }
+          }}
         >
-          <i className="fa fa-linkedin"></i> LinkedIn
-        </a>
+          <i className="fa fa-code"></i> Réalisations
+        </Link>
       </li>
       <li className="menu__item">
-        <a href="https://twitter.com/jbehuet" className="link link--dark">
-          <i className="fa fa-twitter"></i> Twitter
-        </a>
+        <Link
+          to="/#posts"
+          className="link link--dark"
+          onClick={e => {
+            if (typeof window !== 'undefined') {
+              if (window.location.pathname === '/') {
+                if (e) e.preventDefault();
+                scrollToElement('#posts', {
+                  offset: -180, // Offset a fixed header if you please
+                  duration: 1000
+                });
+              }
+            }
+          }}
+        >
+          <i className="fa fa-book"></i> Publications
+        </Link>
+      </li>
+      <li className="menu__item">
+        <Link
+          to="/#cv"
+          className="link link--dark"
+          onClick={e => {
+            if (typeof window !== 'undefined') {
+              if (window.location.pathname === '/') {
+                if (e) e.preventDefault();
+                scrollToElement('#cv', {
+                  offset: -60, // Offset a fixed header if you please
+                  duration: 1000
+                });
+              }
+            }
+          }}
+        >
+          <i className="fa fa-briefcase"></i> Expériences
+        </Link>
       </li>
     </ul>
   </nav>

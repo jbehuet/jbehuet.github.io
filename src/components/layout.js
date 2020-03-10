@@ -18,6 +18,27 @@ const Layout = ({ children, displayHomeLink = false }) => {
       <footer className="footer">
         <ul className="footer--links">
           <li className="footer--links__item">
+            <a href="https://github.com/jbehuet" className="link link--white">
+              <i className="fa fa-github"></i> Github
+            </a>
+          </li>
+          <li className="footer--links__item">
+            <a
+              href="https://fr.linkedin.com/in/jbehuet"
+              className="link link--white"
+            >
+              <i className="fa fa-linkedin"></i> LinkedIn
+            </a>
+          </li>
+          <li className="footer--links__item">
+            <a href="https://twitter.com/jbehuet" className="link link--white">
+              <i className="fa fa-twitter"></i> Twitter
+            </a>
+          </li>
+        </ul>
+        <br />
+        <ul className="footer--links">
+          <li className="footer--links__item">
             made with <i className="fa fa-heart text--red"></i> and{' '}
             <a href="https://www.gatsbyjs.org/" className="link link--white">
               Gatsby

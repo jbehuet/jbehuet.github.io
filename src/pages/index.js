@@ -89,13 +89,15 @@ const IndexPage = () => {
             title="Réalisations"
             subtitle="Quelques un des projets réalisés."
           />
-          {allProjectsJson.nodes.map((project, i) => (
-            <Project
-              key={project.id}
-              project={project}
-              imageOnLeft={i % 2 === 0}
-            />
-          ))}
+          <div id="projects">
+            {allProjectsJson.nodes.map((project, i) => (
+              <Project
+                key={project.id}
+                project={project}
+                imageOnLeft={i % 2 === 0}
+              />
+            ))}
+          </div>
           <div className="callout">
             <p>
               Une question, un projet, une demande particulière où je peux
@@ -121,7 +123,7 @@ const IndexPage = () => {
             ))}
           </div>
         </div>
-        <div className="cv">
+        <div id="cv" className="cv">
           <div className="cv__wrapper">
             <Title title="Expériences" />
             {allExperiencesJson.nodes.map(experience => (
