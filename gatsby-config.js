@@ -3,7 +3,8 @@ module.exports = {
     title: `Jerome BEHUET`,
     description: `Développeur passionné, ayant plus de 10ans d'expérience.`,
     keywords: `developpeur,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
-    author: `@jbehuet`
+    author: `@jbehuet`,
+    siteUrl: `https://jbehuet.github.io`
   },
   plugins: [
     `gatsby-plugin-react-helmet`,
@@ -69,6 +70,18 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-38322348-4'
+      }
+    },
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', allow: '/' }]
+      }
+    },
+    {
+      resolve: `gatsby-plugin-sitemap`,
+      options: {
+        exclude: ['posts/place-du-travail-dans-ma-vie-apres-voyage']
       }
     }
   ]
