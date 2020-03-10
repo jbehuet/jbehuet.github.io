@@ -258,12 +258,16 @@ table td:first-child {
 
 @media screen and (max-width: 600px) {
   nav {
-    display: none;
-    /*grid-template-columns: 70px auto;*/
+    /* display: none; */
+    grid-template-columns: 70px auto;
   }
 
   .menu__item {
     display: none;
+  }
+
+  .menu.open > * {
+    display: block;
   }
 
   .menu__item.toggle {

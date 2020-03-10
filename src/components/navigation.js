@@ -1,11 +1,13 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'gatsby';
 import scrollToElement from 'scroll-to-element';
 
 const Navigation = ({ displayHomeLink }) => {
+  const [isOpened, setIsOpened] = useState(false);
   const handleClick = (e, target) => {
     if (typeof window !== 'undefined') {
       if (window.location.pathname === '/') {
+        setIsOpened(false);
         if (e) e.preventDefault();
         scrollToElement(`#${target}`, {
           offset: -60,
@@ -17,7 +19,7 @@ const Navigation = ({ displayHomeLink }) => {
 
   return (
     <nav>
-      {displayHomeLink && (
+      {displayHomeLink && !isOpened && (
         <ul className="menu left">
           <li className="menu__item">
             <Link to="/" className="link link--dark">
@@ -26,8 +28,11 @@ const Navigation = ({ displayHomeLink }) => {
           </li>
         </ul>
       )}
-      <ul className="menu">
-        <div className="menu__item toggle">
+      <ul className={`menu ${isOpened ? 'open' : ''}`}>
+        <div
+          className={`menu__item toggle ${isOpened ? 'open' : ''}`}
+          onClick={() => setIsOpened(!isOpened)}
+        >
           <span></span>
         </div>
         <li className="menu__item">
