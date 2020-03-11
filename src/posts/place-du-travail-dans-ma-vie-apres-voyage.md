@@ -14,7 +14,7 @@ draft: true
 
 x min read
 
-<img src="../images/posts/place-du-travail-dans-ma-vie-apres-voyage/01.jpg" />
+![](../images/posts/place-du-travail-dans-ma-vie-apres-voyage/01.jpg)
 
 Étant développeur je suis conscient que mon métier apporte son lot d'avantage (rémunération, conditions de travail, etc.) là n'est pas le sujet, j'ai eu la chance de partir plusieurs mois en voyage en 2019 et ces quelques mois m'ont changer la vision que j'avais de l'occupation du travail dans ma vie.
 

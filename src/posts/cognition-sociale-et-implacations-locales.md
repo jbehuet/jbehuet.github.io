@@ -14,7 +14,7 @@ draft: false
 
 5 min read
 
-<img class="dj t u hp ak" src="../images/posts/cognition-sociale-et-implacations-locales/01.jpeg" width="5184" height="3456" role="presentation"/>
+![](../images/posts/cognition-sociale-et-implacations-locales/01.jpeg)
 
 Depuis notre naissance nous avons tous le besoin universel d’entrer dans un **réseau de relations interhumaines**.
 
@@ -28,7 +28,7 @@ Les motivations de s’investir peuvent être diverses telles qu’avoir la poss
 
 L’investissement se fait le plus souvent en offrant de son temps, en partageant son vécu, ses expériences, etc. au sein d’une communauté à laquelle nous-mêmes nous appartenons. Ces investissements, que l’on fait, sont également des moyens pour se sentir accepté par le groupe en question. Nous vivons dans un monde social, où le sentiment que l’on existe passe aussi par l’intermédiaire du regard de l’autre qui nous identifie comme un pair.
 
-<img class="dj t u hp ak" src="../images/posts/cognition-sociale-et-implacations-locales/02.jpeg" width="4256" height="2840" role="presentation"/>
+![](../images/posts/cognition-sociale-et-implacations-locales/02.jpeg)
 
 ## **Besoin d’appartenance**
 
@@ -46,7 +46,7 @@ Lorsque notre besoin d’appartenance sociale est comblé, notre **estime de soi
 
 Il est important de différencier l’estime de soi de l’approbation (_le regard_) des autres. Généralement, nous accordons plus d’importance au jugement que l’on nous porte, plutôt qu’à l’estime que l’on se porte à soi-même. C’est cette mauvaise estime de soi ou plutôt la projection d’une éventuelle désapprobation de nos pairs qui nous freine dans notre envie de nous investir. Plus particulièrement, la crainte que ce que nous avons à partager au groupe auquel nous appartenons se voit être rejeté.
 
-<img class="dj t u hp ak" src="../images/posts/cognition-sociale-et-implacations-locales/03.jpeg" width="2865" height="1910" role="presentation"/>
+![](../images/posts/cognition-sociale-et-implacations-locales/03.jpeg)
 
 Bien que les êtres humains aient une attitude sociale, il est possible qu’un groupe rejette un individu pour avoir franchi les “frontières” de ce groupe, frontières qui crées d’autant plus ce sentiment d’appartenance auprès des membres du groupe. En toute logique, si vous appartenez à un groupe et que vous partager des éléments respectant les valeurs du groupe, même si ces éléments se voient erronés ou bien soulevant un débat, le groupe n’aura aucune raison de vous rejeter.
 
@@ -72,7 +72,7 @@ Nous y rencontrons des personnes qui deviendrons des amis, de futurs collaborate
 
 Enrichissement qui, par moments, produit en nous ce sentiment de reconnaissance, quelques peut grisant. Pouvant-être imagé par la sensation de se sentir tel un super héros, ce n’est pas une question d’orgueil, d’égoïsme ou d’immaturité mais bien ce sentiment de reconnaissance que l’on ressent.
 
-<img class="dj t u hp ak" src="../images/posts/cognition-sociale-et-implacations-locales/04.jpeg" width="3872" height="2581" role="presentation"/>
+![](../images/posts/cognition-sociale-et-implacations-locales/04.jpeg)
 
 Une des caractéristiques première de la reconnaissance, et ce quelle que soient sa forme, est que la demande étant par nature inépuisable, sa satisfaction ne peut jamais être complète ou définitive.
 
