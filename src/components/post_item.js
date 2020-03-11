@@ -8,7 +8,7 @@ const PostItem = ({ post }) => (
       <div
         className="thumb"
         style={{
-          backgroundImage: `url(${post.thumbnail.publicURL})`
+          backgroundImage: `url(${post.thumbnail.childImageSharp.fixed.base64})`
         }}
       />
       <div className="content">

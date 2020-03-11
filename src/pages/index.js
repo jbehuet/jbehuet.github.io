@@ -49,7 +49,11 @@ const IndexPage = () => {
               title
               subtitle
               thumbnail {
-                publicURL
+                childImageSharp {
+                  fixed(base64Width: 400) {
+                    base64
+                  }
+                }
               }
               date
               creator
