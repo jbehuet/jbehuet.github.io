@@ -1,10 +1,5 @@
 import React, { useEffect } from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import 'aos/dist/aos.css';
-
-import '../styles/global.css';
-import '../styles/landing.css';
-import '../styles/article.css';
 
 import Layout from '../components/layout';
 import Header from '../components/header';

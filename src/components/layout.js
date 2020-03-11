@@ -1,12 +1,11 @@
-/**
- * Layout component that queries for data
- * with Gatsby's useStaticQuery component
- *
- * See: https://www.gatsbyjs.org/docs/use-static-query/
- */
-
 import React from 'react';
 import PropTypes from 'prop-types';
+
+import 'aos/dist/aos.css';
+
+import '../styles/global.css';
+import '../styles/landing.css';
+import '../styles/article.css';
 
 import Navigation from './navigation';
 
