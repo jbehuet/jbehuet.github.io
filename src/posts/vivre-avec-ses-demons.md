@@ -12,7 +12,7 @@ draft: false
 
 ## Développeur passionné et autodidacte, l’estime de soi face à ses pairs.
 
-6 min read
+_(6 min)_
 
 ![](../images/posts/vivre-avec-ses-demons/01.jpeg)
 

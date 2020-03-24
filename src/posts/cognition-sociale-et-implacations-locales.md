@@ -12,7 +12,7 @@ draft: false
 
 ## Acteur dans la pénombre, organisation d’évènements, meetups, formations, etc. pourquoi je fais cela ?
 
-5 min read
+_(5 min)_
 
 ![](../images/posts/cognition-sociale-et-implacations-locales/01.jpeg)
 
