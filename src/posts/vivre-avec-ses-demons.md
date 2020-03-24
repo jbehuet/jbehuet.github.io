@@ -14,7 +14,7 @@ draft: false
 
 _(6 min)_
 
-![](../images/posts/vivre-avec-ses-demons/01.jpeg)
+![pièce d'échec](../images/posts/vivre-avec-ses-demons/01.jpeg)
 
 Depuis maintenant plusieurs années je suis développeur, autodidacte et je n’ai pas de formation en informatique, pour le moment rien de particulier me direz-vous, seulement j’aimerais aborder dans cet article un point que bien souvent nous n’entendons que peu, **l’estime de soi face à ses pairs**.
 
@@ -32,7 +32,7 @@ L’exemple le plus probant, où l’on attend de nous que l’on soit infaillib
 
 A quoi servent ces tests de recrutement réellement, quel est l’objectif attendu en plaçant le candidat dans une situation où il ne réussit pas assez ou rate ? Mettre le candidat dans un rapport de forces dominé / dominant et mettre ainsi ladite entreprise en position d’élite aux yeux du candidat ?
 
-![](../images/posts/vivre-avec-ses-demons/02.jpeg)
+![homme en costume](../images/posts/vivre-avec-ses-demons/02.jpeg)
 
 Est-il nécessaire de rappeler que le droit français prévoit une période d’essai au contrat de travail ?
 
@@ -58,7 +58,7 @@ Comme tous développeurs, l’autoformation occupe une place importante. Il est 
 
 Et c’est pour moi cette exigence qui met à l’épreuve notre estime de soi face à l’avènement de notre métier et toute cette _hype._ L’exigence qu’implique notre métier, les échanges avec nos pairs sur un nouveau framework à la mode, de nouvelles méthodes de travail, l’évolution de tout cet écosystème, tout cela peut provoquer ou accroître certaines peurs ou permet de développer facilement ce qui est communément appelé **le syndrome de l’imposteur** également appelé **syndrome de l’autodidacte** (_doute qui consiste essentiellement à nier la propriété de tout accomplissement personnel_).
 
-![](../images/posts/vivre-avec-ses-demons/03.jpeg)
+![homme seul sur son ordinateur](../images/posts/vivre-avec-ses-demons/03.jpeg)
 
 Je ne vais pas m’attarder sur ce qu’est le syndrome de l’imposteur de nombreux articles en parlent ([article de David Wash](https://davidwalsh.name/impostor-syndrome)), mais c’est bien souvent lui qui se cache derrière les difficultés qui met à mal notre ego et notre estime de soi. Cette petite part de nous qui nous fait sentir illégitime dans notre travail, face à nos pairs, nous bloquant lors de la prise de parole sur un sujet technique ou lors de prises de décisions. Pourtant comme tout à chacun, nous sommes tous faillible et faisons des erreurs.
 
@@ -90,4 +90,4 @@ Vos points forts sont peut-être les faiblesses d’un autre et connaitre ses pr
 
 Cet article reflet beaucoup mon expérience personnelle cependant je voulais vous la partager et par ailleurs, si j’ai publié cet article c’est aussi ma manière de travailler sur ma propre estime.
 
-![](../images/posts/vivre-avec-ses-demons/04.jpeg)
+![moi, face à un lac](../images/posts/vivre-avec-ses-demons/04.jpeg)
