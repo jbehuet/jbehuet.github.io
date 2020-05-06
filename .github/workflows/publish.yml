@@ -3,7 +3,7 @@ name: Publish
 on:
   pull-request:
     branches:
-      - 2020
+      - develop
 
 jobs:
   build:
@@ -14,3 +14,4 @@ jobs:
         with:
           access-token: ${{ secrets.ACCESS_TOKEN }}
           deploy-branch: master
+          skip-publish: true
