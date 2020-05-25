@@ -3,8 +3,8 @@
     "name": "Toutlevin",
     "details": [
       "Média en ligne sur la thématique du vin.",
-      "- Migration de l'application existante vers GatsbyJS",
-      "- API NodeJS / GraphQL / Neo4J",
+      "- Restructuration l'application existante ",
+      "- NodeJS / GraphQL / Neo4J / JavaScript",
       "- Intégration (SASS)"
     ],
     "imageName": "toutlevin",
