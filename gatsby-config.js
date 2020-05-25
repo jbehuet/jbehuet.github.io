@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: `Jerome BEHUET`,
-    description: `Développeur passionné, ayant plus de 10ans d'expérience.`,
-    keywords: `developpeur,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
+    description: `Développeur freelance passionné, ayant plus de 10 ans d'expérience.`,
+    keywords: `developpeur,freelance,full stack,javascript,java,developer,angular,angularjs,js,node,nodejs,react,vuejs`,
     author: `@jbehuet`,
     siteUrl: `https://jbehuet.github.io`
   },
