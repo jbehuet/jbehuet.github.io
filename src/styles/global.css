@@ -133,6 +133,10 @@ h3 {
   color: var(--accent-color);
 }
 
+.link--light:hover {
+  text-decoration: underline;
+}
+
 .link--white {
   color: var(--white-color);
 }

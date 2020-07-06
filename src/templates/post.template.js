@@ -15,6 +15,11 @@ export default function Template({
       <Header noHero={true} />
       <div className="wrapper">
         <article dangerouslySetInnerHTML={{ __html: html }} />
+
+        <section className="comments">
+          <h2>Commentaires</h2>
+          <p>Envoyez-moi un message sur Twitter à <a href="https://twitter.com/jbehuet" className="link link--light">@jbehuet</a> ou mentionnez moi avec votre avis sur le sujet.</p>
+        </section>
       </div>
     </Layout>
   );
