@@ -1,5 +1,20 @@
 [
   {
+    "name": "Château Edmus",
+    "details": [
+      "Site web du Château Edmus",
+      "En collaboration avec Céline DAFFE",
+      "- GatsbyJS / Prismic.io / JavaScript / SASS",
+      "- Intégration & développement"
+    ],
+    "imageName": "edmus",
+    "link": {
+      "text": "chateauedmus.com",
+      "url": "https://www.chateauedmus.com/"
+    },
+    "background": "#000"
+  },
+  {
     "name": "Toutlevin",
     "details": [
       "Média en ligne sur la thématique du vin.",
