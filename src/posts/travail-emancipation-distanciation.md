@@ -98,6 +98,4 @@ Ce nouveau rythme, qui me laisse le soin de m'écouter, de respirer, d'admirer t
 
 Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail. Mon métier, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toute autres activités, chercher du divertissement, de l'épanouissement et aller se "nourrir" de nouvelles expériences.
 
-![](../images/posts/travail-emancipation-distanciation/03.jpg)
-
 Je vous invite également à lire l'article de [Florian Kauder](https://twitter.com/aamulumi), ["Quid d'un monde sans travail"](https://aamulumi.info/fr/sociologie/2020/02/25/quid-dun-monde-sans-travail.html)
