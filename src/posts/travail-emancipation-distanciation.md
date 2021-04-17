@@ -54,23 +54,23 @@ Selon [Adam Smith](https://fr.wikipedia.org/wiki/Adam_Smith), le travail est un 
 
 J'ai grandi avec des parents ouvriers, la première image que l'on m'a transmise du travail est sa nécessité pour vivre mais aussi son caractère obligatoire.
 
-Donc tout naturellement pour moi, dès l'âge de 14 ans j'ai débuté mon premier emplois, en tant que plongeur dans une petite pizzeria tous les week-ends. Ainsi au fil de ma scolarité, j'ai, comme un grand nombre d'étudiants, travailler sur les périodes de vacances, dans le but de gagner toujours plus en autonomie.
+Donc tout naturellement pour moi, dès l'âge de 14 ans j'ai débuté mon premier emplois, en tant que plongeur dans une petite pizzeria tous les week-ends. Ainsi au fil de ma scolarité, j'ai, comme un grand nombre d'étudiants, travaillé sur les périodes de vacances, dans le but de gagner toujours plus en autonomie.
 
-Je me souviens encore d'un été où j'ai travaillé durant un mois et demi en équipe avec alternance matin 5h-13h et après-midi 13h-21h, avec l'obligation comme à l'école de léver la main pour demain à aller au toilette car la machine sur laquelle j'étais assigné de ne devait pas s'interrompre. À la fin de ce mois et demi j'ai pu payé ma carte de grise de voiture avec laquelle je roulais déjà depuis plusieurs mois.
+Je me souviens encore d'un été où j'ai travaillé en équipe avec alternance matin 5h-13h et après-midi 13h-21h, avec l'obligation comme à l'école de léver la main pour demain à aller au toilette car la machine sur laquelle j'étais assigné de ne devait pas s'interrompre. À la fin de cette mission j'ai pu payé ma carte de grise de voiture avec laquelle je roulais déjà depuis plusieurs mois. Ces premiers salaires perçus m'ont permis d'acquérir plus d'autonomie, personnelle et financière, me permettant une amorce d'émancipation en tant qu'individu.
 
-Via ces expériences et mon entourage, on m'a aussi transmis la nécessité de me hisser dans les hautes strates de la hiérarchie et, quelque peu, influencé sur le cursus scolaire à suivre afin de m'ériger au rang de [col blanc](<https://fr.wikipedia.org/wiki/Col_blanc_(classe_sociale)>).
+J'ai, à ce moment, pris conscience, sans en connaitre le terme, de [méritocratie](https://fr.wikipedia.org/wiki/M%C3%A9ritocratie). Comme si, le fait de faire des études me donnerais plus de mérite qu'un autre pour ne pas avoir à demander pour aller pisser.
 
-J'ai, à ce moment, pris conscience, sans en connaitre le terme, de [meritocratie](https://fr.wikipedia.org/wiki/M%C3%A9ritocratie). Comme si, le fait de faire des études me donnerais plus de mérite qu'un autre pour ne pas avoir à demander pour aller pisser.
+Ces expériences professionnelles et mon entourage, indirectement, m'on transmis un certain objectif a atteindre. Celui de chercher à parvenir à une niveau de classe sociale supérieure ([transfuge de classe](https://fr.wikipedia.org/wiki/Transfuge_de_classe)). Tous ceci influença fortement mon cursus scolaire à suivre afin de m'ériger au rang de [col blanc](<https://fr.wikipedia.org/wiki/Col_blanc_(classe_sociale)>).
 
 # Les voyages, les congès, les vacances
 
 ![](../images/posts/travail-emancipation-distanciation/02.jpg)
 
-Les voyages, les congès, les vacances ou encore tout autre moments de temps libre sont aux antipode du travail. Ce sont des moment où nous nous retrouvons dans une situation, de farniente, d'oisiveté, de temps à soi.
+Les voyages, les congès, les vacances ou encore tout autre moments de temps libre sont aux antipode du travail pensé sous l'égide d'un employeur, qui sont des périodes périodes perçues comme te rendant "inutile". Pourtant, ce sont des moment où nous nous retrouvons dans une situation avec du temps à soi.
 
 S'accorder du temps pour soi-même, se retrouver dans une situation où l'on a possibilité de rythmer son quotidien selon ses humeurs et ses envies.
 
-Comme tous je prennais quelques congés sur les cinqs semaines légales qui m'étaient accordées. Cependant, durant ces semaines de break et à l'aire du numérique la rupture avec nos obligations n'est jamais complète, on vérifie nos emails, on réponds à certains, etc.
+Comme tous je prennais quelques congés sur les cinqs semaines légales qui m'étaient accordées. Cependant, durant ces semaines de break et à l'aire du numérique la rupture avec mes obligations n'ont jamais complète, je vérifiais mes emails, je répondais à certains, etc. Je pensais toujours à mon travail.
 
 Se déconnecter de toute obligation professionelle et s'octroyer uniquement du temps pour **profiter de l'instant**, voilà pour moi, ce que [mon voyage](https://bonjour-monde.fr) ma permis de réaliser en plus de découvrir de somptueux paysage et de nouvelles cultures (et bien d'autres choses).
 
@@ -78,11 +78,15 @@ Pour moi, la définition du voyage n'est pas une destination en particulier ou b
 
 # Mon rapport à mon travail
 
-A la suite de mon cursur scolaire en gestion de production en 2007, j'ai, en tant qu'autodidacte, eu l'opportunité de faire de Développeur mon métier. J'ai, depuis, quitté le salariat en 2017 pour devenir freelance. Un métier qui, comme pour beaucoup dans ce domaine, me passionne, me challenge et m'épanouie pleinement au travers les projets pour lesquels j'ai eu la chance de travailler.
+A la suite de mon cursur scolaire en gestion de production en 2007, j'avais clairement aucune envie de continuer dans ce domaine, je me retrouver dans la position de la personne pouvant accordé le droit à aller pisser à une personne sur la ligne de production.
 
-Mon rapport au travail, étant autodidacte, j'ai pendants mes premières années de carrière redoubler d'effort et du faire mes preuves et lutter, comme d'autre, contre le syndrome de l'imposteur (lire [Vivre avec ces démons](/posts/vivre-avec-ses-demons) ). Je changais de poste ou de société fréquemment venant ainsi nourrir mon expérience. Je prend également conscience de la chance que j'ai d'être un homme, blanc, cis et hétéro, des privilèges non négligeables dans notre société qui ont, implicitement, contribués à mon parcours.
+J'ai toujours été attiré et passionné par le développement et le métier de développeur, je m'auto formais dans ce domaine déjà depuis un moment. J'ai donc tout mis en oeuvre pour trouvé une mission où il était possible me de faire mes preuves. Ce qui fût le cas en 2008 après plusieurs mois à enchainer des missions "alimentaire", à la suite à ce premier CDD décroché ma carrière de développeur débutée !
 
-Durant mes dix années en tant que salarié, les congès étaient, pour moi, synonyme de perte de temps car je n'étais pas _"productif"_. Je ne prennais que rarement l'intégralité de mes congès, mon travail était ma priorité.
+En tant qu'autodidacte, j'ai pendants mes premières années du redoubler d'effort, du faire mes preuves et lutter, comme d'autre, contre le syndrome de l'imposteur (lire [Vivre avec ces démons](/posts/vivre-avec-ses-demons) ). Je changais de poste ou de société afin de nourrir ma soif d'expérience. J'ai, également durant mon parcours, pris conscience de la chance que j'ai d'être un homme, blanc, cis et hétéro et des privilèges non négligeables dans notre société qui ont, a mon issu, contribués à mon parcours.
+
+Durant mes années en tant que salarié, les congès étaient, pour moi, synonyme de perte de temps car je n'étais pas _"productif"_. Je ne prennais que rarement l'intégralité de mes congès, mon travail était ma priorité.
+
+Après, différentes expériences en tant que salarié, le souhait de m'émanciper de certains supérieurs avec lesquels il était particulièrement difficile de travailler se fait sentir. En 2017, je quitte donc le salariat, pour devenir freelance.
 
 # Nouveau rythme
 
@@ -92,10 +96,10 @@ Aujourd'hui nous sommes nombreux à pouvoir faire notre travail depuis chez nous
 
 Le télétravail ne peut pas convenir à tous le monde, seulement 4/10 des métiers en France (_selon le ministère_) peuvent-être fait à distance, il faut aussi prendre en compte l'environnement personnel de chacun. Ce que je veux évoquer ce sont les bienfait que cela m'apporter, personnellement, de récupérer du contrôle sur mon rythme.
 
-Un rythme de vie, que je peux orchestrer avec plus de souplesse en venant, dans la mesure du possible, y réduire peu à peu le temps qu'occupe le travail, en mettant en place du 4/5 dans la mesure du possible sur certaines missions, pour laisser place à d'autres occupations plus oisives d'un point vue de la société.
+Un rythme de vie, que je peux orchestrer avec plus de souplesse en venant, dans la mesure du possible, y réduire peu à peu le temps qu'occupe le travail, en mettant en place du 4/5 dans la mesure du possible sur certaines missions, réduissant mon stress en gagnant en qualité de vie, avoir plus de temps pour découvrir de nouvelles choses, d'apprendre de nouvelles choses comme par exemple la photographie qui j'ai découvert en prenant de la distance avec mon métier laissant de la place pour d'autres passions.
 
 Ce nouveau rythme, qui me laisse le soin de m'écouter, de respirer, d'admirer tout en continuant d'effectuer un travail qui me passionne, donne une alternance bien plus vivable que d'être uniquement dans ma bulle de travail.
 
-Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail. Mon métier, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toute autres activités, chercher du divertissement, de l'épanouissement et aller se "nourrir" de nouvelles expériences.
+Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail, je n'imaginais pas partir aussi longtemps sans travailler, je suis même parti avec un projet à terminé, le travail semblait me définir et je ne pensais pouvoir me définir autrement qu'au travers le dev'. Mon métier, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toute autres activités, chercher du divertissement, de l'épanouissement et aller se "nourrir" de nouvelles expériences.
 
 Je vous invite également à lire l'article de [Florian Kauder](https://twitter.com/aamulumi), ["Quid d'un monde sans travail"](https://aamulumi.info/fr/sociologie/2020/02/25/quid-dun-monde-sans-travail.html)
