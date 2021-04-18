@@ -66,7 +66,7 @@ Ces expériences professionnelles et mon entourage, indirectement, m'on transmis
 
 ![](../images/posts/travail-emancipation-distanciation/02.jpg)
 
-Les voyages, les congès, les vacances ou encore tout autre moments de temps libre sont aux antipode du travail pensé sous l'égide d'un employeur, qui sont des périodes périodes perçues comme te rendant "inutile". Pourtant, ce sont des moment où nous nous retrouvons dans une situation avec du temps à soi.
+Les voyages, les congès, les vacances ou encore tout autre moments de temps libre sont aux antipode du travail pensé sous l'égide d'un employeur, qui sont des périodes perçues comme te rendant "inutile". Pourtant, ce sont des moment où nous nous retrouvons dans une situation avec du temps à soi.
 
 S'accorder du temps pour soi-même, se retrouver dans une situation où l'on a possibilité de rythmer son quotidien selon ses humeurs et ses envies.
 
@@ -80,7 +80,7 @@ Pour moi, la définition du voyage n'est pas une destination en particulier ou b
 
 A la suite de mon cursur scolaire en gestion de production en 2007, j'avais clairement aucune envie de continuer dans ce domaine, je me retrouver dans la position de la personne pouvant accordé le droit à aller pisser à une personne sur la ligne de production.
 
-J'ai toujours été attiré et passionné par le développement et le métier de développeur, je m'auto formais dans ce domaine déjà depuis un moment. J'ai donc tout mis en oeuvre pour trouvé une mission où il était possible me de faire mes preuves. Ce qui fût le cas en 2008 après plusieurs mois à enchainer des missions "alimentaire", à la suite à ce premier CDD décroché ma carrière de développeur débutée !
+J'ai toujours été attiré et passionné par le développement et le métier de développeur, je m'auto formais dans ce domaine déjà depuis un moment. J'ai donc tout mis en oeuvre pour trouvé une mission où il était possible de faire mes preuves. Ce qui fût le cas en 2008 après plusieurs mois à enchainer des missions "alimentaire". À la suite de ce premier CDD ma carrière de développeur débutée !
 
 En tant qu'autodidacte, j'ai pendants mes premières années du redoubler d'effort, du faire mes preuves et lutter, comme d'autre, contre le syndrome de l'imposteur (lire [Vivre avec ces démons](/posts/vivre-avec-ses-demons) ). Je changais de poste ou de société afin de nourrir ma soif d'expérience. J'ai, également durant mon parcours, pris conscience de la chance que j'ai d'être un homme, blanc, cis et hétéro et des privilèges non négligeables dans notre société qui ont, a mon issu, contribués à mon parcours.
 
@@ -100,6 +100,6 @@ Un rythme de vie, que je peux orchestrer avec plus de souplesse en venant, dans 
 
 Ce nouveau rythme, qui me laisse le soin de m'écouter, de respirer, d'admirer tout en continuant d'effectuer un travail qui me passionne, donne une alternance bien plus vivable que d'être uniquement dans ma bulle de travail.
 
-Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail, je n'imaginais pas partir aussi longtemps sans travailler, je suis même parti avec un projet à terminé, le travail semblait me définir et je ne pensais pouvoir me définir autrement qu'au travers le dev'. Mon métier, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toute autres activités, chercher du divertissement, de l'épanouissement et aller se "nourrir" de nouvelles expériences.
+Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail, je n'imaginais pas partir aussi longtemps sans travailler, je suis même parti avec un projet à terminer, le travail semblait me définir et je ne pensais pouvoir me définir autrement qu'au travers mon métier. Être développeur, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toute autres activités, chercher du divertissement, de l'épanouissement et aller se nourrir de nouvelles expériences.
 
 Je vous invite également à lire l'article de [Florian Kauder](https://twitter.com/aamulumi), ["Quid d'un monde sans travail"](https://aamulumi.info/fr/sociologie/2020/02/25/quid-dun-monde-sans-travail.html)
