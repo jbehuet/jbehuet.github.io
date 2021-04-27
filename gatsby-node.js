@@ -11,7 +11,15 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
         edges {
           node {
             frontmatter {
-              path
+              path,
+              subtitle,
+              thumbnail {
+                childImageSharp {
+                  fixed(base64Width: 400) {
+                    base64
+                  }
+                }
+              }
             }
           }
         }
@@ -26,6 +34,8 @@ exports.createPages = async ({ actions, graphql, reporter }) => {
   result.data.allMarkdownRemark.edges.forEach(({ node }) => {
     createPage({
       path: node.frontmatter.path,
+      subtitle: node.frontmatter.subtitle,
+      thumbnail: node.frontmatter.thumbnail,
       component: postTemplate,
       context: {} // additional data can be passed via context
     });

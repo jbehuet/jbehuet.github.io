@@ -77,7 +77,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-sitemap`,
       options: {
-        exclude: ['posts/place-du-travail-dans-ma-vie-apres-voyage']
+        exclude: []
       }
     }
   ]

@@ -26,7 +26,7 @@ function SEO({ description, lang, meta, title, og }) {
   );
 
   const metaDescription = description || site.siteMetadata.description;
-
+  console.log(og)
   return (
     <Helmet
       htmlAttributes={{
@@ -85,7 +85,7 @@ function SEO({ description, lang, meta, title, og }) {
         rel="stylesheet"
         href="https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,600,700,800,900"
       />
-      <script type="text/javascript" src={withPrefix('matomo.js')}></script>
+      {/* <script type="text/javascript" src={withPrefix('matomo.js')}></script> */}
 
     </Helmet >
   );

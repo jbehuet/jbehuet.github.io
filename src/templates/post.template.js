@@ -9,9 +9,10 @@ export default function Template({
 }) {
   const { markdownRemark } = data; // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark;
+  console.log(data)
   return (
     <Layout displayHomeLink={true}>
-      <SEO title={frontmatter.title} og={{ image: frontmatter.thumbnail, description: frontmatter.subtitle }} />
+      <SEO title={frontmatter.title} og={{ image: frontmatter.thumbnail.childImageSharp.fixed.base64, description: frontmatter.subtitle }} />
       <Header noHero={true} />
       <div className="wrapper">
         <article dangerouslySetInnerHTML={{ __html: html }} />
@@ -32,6 +33,14 @@ export const pageQuery = graphql`
         date(formatString: "MMMM DD, YYYY")
         path
         title
+        subtitle
+        thumbnail {
+          childImageSharp {
+            fixed(base64Width: 400) {
+              base64
+            }
+          }
+        }
       }
     }
   }
