@@ -9,7 +9,7 @@ export default function Template({
 }) {
   const { markdownRemark } = data; // data.markdownRemark holds your post data
   const { frontmatter, html } = markdownRemark;
-  console.log(data)
+
   return (
     <Layout displayHomeLink={true}>
       <SEO title={frontmatter.title} og={{ image: frontmatter.thumbnail.childImageSharp.fixed.base64, description: frontmatter.subtitle }} />
