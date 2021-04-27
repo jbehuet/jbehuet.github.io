@@ -1,18 +1,18 @@
 ---
 path: '/posts/travail-emancipation-distanciation'
-date: '2021-04-01'
+date: '2021-04-27'
 title: "Travail, de l'émancipation à la distanciation."
 subtitle: "Changement de regard sur la place qu'occupe le travail dans ma vie."
 thumbnail: '../images/posts/travail-emancipation-distanciation/01.jpg'
 creator: 'Jérôme BEHUET'
-draft: true
+draft: false
 ---
 
 # Travail, de l'émancipation à la distanciation.
 
 ## Changement de regard sur la place qu'occupe le travail dans ma vie.
 
-(x min)
+(7 min)
 
 ![](../images/posts/travail-emancipation-distanciation/01.jpg)
 
@@ -68,9 +68,9 @@ Ces expériences professionnelles et mon entourage, indirectement, m'ont transmi
 
 Les voyages, les congés, les vacances ou encore tout autres moments de temps libre sont aux antipodes du travail pensé sous l'égide d'un employeur, qui sont des périodes perçues comme te rendant "inutile". Pourtant, ce sont des moments où nous nous retrouvons dans une situation avec du temps à soi. En s'accordant du temps pour se retrouver dans des situations où l'on a possibilité de rythmer son quotidien selon ses humeurs et ses envies.
 
-Comme tous, je prenais quelques congés sur les cinq semaines légales qui m'étaient accordés. Cependant, durant ces semaines de break et à l'ère du numérique la rupture avec mes obligations n'a jamais été complète, je vérifiais mes emails, je répondais à certains, etc. Je pensais toujours à mon travail.
+Comme tous, je prenais quelques congés sur les cinq semaines légales qui m'étaient accordés. Cependant, durant ces semaines de break et à l'ère du numérique la rupture avec mes obligations n'a jamais été complète, je vérifiais mes mails, je répondais à certains, etc. Je pensais toujours à mon travail.
 
-Se déconnecter de toute obligation professionelle et s'octroyer uniquement du temps pour **profiter de l'instant**, voilà pour moi, ce que [mon voyage](https://bonjour-monde.fr) ma permis de réaliser en plus de découvrir de somptueux paysage et de nouvelles cultures (et bien d'autres choses).
+Se déconnecter de toute obligation professionnelle et s'octroyer uniquement du temps pour **profiter de l'instant**, voilà pour moi, ce que [mon voyage](https://bonjour-monde.fr) ma permis de réaliser en plus de découvrir de somptueux paysage et de nouvelles cultures (et bien d'autres choses).
 
 Pour moi, la définition du voyage n'est pas une destination en particulier ou bien un mode de voyage (vélo, moto, train, etc.) mais uniquement le fait de pouvoir profiter de l'instant en se laissant porter par l'écoute de ses émotions. Bien entendu, que le plaisir de découvrir de nouvelles cultures, paysages etc. est immense mais ce que j'aime plus particulièrement c'est la sensation que procurent les moments où l'on déconnecte de tout le reste, l'on profite du lieu où l'on se trouve, que ce soit sur la côte Est Australienne ou bien en bivouac sur les routes d'Auvergne.
 
@@ -78,7 +78,7 @@ Pour moi, la définition du voyage n'est pas une destination en particulier ou b
 
 À la suite de mon cursus scolaire en gestion de production en 2007, je n'avais clairement aucune envie de continuer dans ce domaine, je me retrouvais dans la position de la personne pouvant accorder le droit à aller pisser à une personne sur la ligne de production.
 
-J'ai toujours été attiré et passionné par le développement et le métier de développeur, je m'autoformais dans ce domaine déjà depuis un moment. J'ai donc tout mis en oeuvre pour trouver une mission où il était possible de faire mes preuves. Ce qui fût le cas en 2008 après plusieurs mois à enchainer des missions "alimentaire". À la suite de ce premier CDD ma carrière de développeur débutée !
+J'ai toujours été attiré et passionné par le développement et le métier de développeur, je m'autoformais dans ce domaine déjà depuis un moment. J'ai donc tout mis en œuvre pour trouver une mission où il était possible de faire mes preuves. Ce qui fût le cas en 2008 après plusieurs mois à enchainer des missions "alimentaire". À la suite de ce premier CDD ma carrière de développeur débutée !
 
 En tant qu'autodidacte, j'ai pendant mes premières années du redoubler d'efforts, du faire mes preuves et lutter, comme d'autres, contre le syndrome de l'imposteur (lire [Vivre avec ces démons](/posts/vivre-avec-ses-demons) ). Je changeais de poste ou de société afin de nourrir ma soif d'expérience. J'ai, également durant mon parcours, pris conscience de la chance que j'ai d'être un homme, blanc, cis et hétéro et des privilèges non négligeables dans notre société qui a, a mon insu, contribué à mon parcours.
 
