@@ -45,7 +45,7 @@ function SEO({ description, lang, meta, title, og }) {
         },
         {
           property: `og:description`,
-          content: og.description || metaDescription
+          content: og ? og.description || metaDescription : metaDescription
         },
         {
           property: `og:type`,
@@ -53,7 +53,7 @@ function SEO({ description, lang, meta, title, og }) {
         },
         {
           property: `og:image`,
-          content: og.image
+          content: og ? og.image || undefined : undefined
         },
         {
           name: `twitter:card`,
