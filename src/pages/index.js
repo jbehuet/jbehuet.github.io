@@ -117,9 +117,6 @@ const IndexPage = () => {
             subtitle="Mes rédactions personnelles publiées."
           />
           <div className="posts">
-            <div>
-              {/* Empty to center 2 cols */}
-            </div>
             {allMarkdownRemark.nodes.map(post => (
               <PostItem key={post.id} post={post.frontmatter} />
             ))}
