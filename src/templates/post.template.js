@@ -11,7 +11,7 @@ export default function Template({
   const { frontmatter, html } = markdownRemark;
   return (
     <Layout displayHomeLink={true}>
-      <SEO title={frontmatter.title} />
+      <SEO title={frontmatter.title} og={{ image: frontmatter.thumbnail, description: frontmatter.subtitle }} />
       <Header noHero={true} />
       <div className="wrapper">
         <article dangerouslySetInnerHTML={{ __html: html }} />
