@@ -72,7 +72,7 @@ Comme tous, je prenais quelques congés sur les cinq semaines légales qui m'ét
 
 Se déconnecter de toute obligation professionnelle et s'octroyer uniquement du temps pour **profiter de l'instant**, voilà pour moi, ce que [mon voyage](https://bonjour-monde.fr) ma permis de réaliser en plus de découvrir de somptueux paysage et de nouvelles cultures (et bien d'autres choses).
 
-Pour moi, la définition du voyage n'est pas une destination en particulier ou bien un mode de voyage (vélo, moto, train, etc.) mais uniquement le fait de pouvoir profiter de l'instant en se laissant porter par l'écoute de ses émotions. Bien entendu, que le plaisir de découvrir de nouvelles cultures, paysages etc. est immense mais ce que j'aime plus particulièrement c'est la sensation que procurent les moments où l'on déconnecte de tout le reste, l'on profite du lieu où l'on se trouve, que ce soit sur la côte Est Australienne ou bien en bivouac sur les routes d'Auvergne.
+Pour moi, la définition du voyage n'est pas une destination en particulier ou bien un mode de voyage (vélo, moto, train, etc.) mais uniquement le fait de pouvoir profiter de l'instant en se laissant porter par l'écoute de ses émotions. Bien entendu, que le plaisir de découvrir de nouvelles cultures, paysages etc. est immense mais ce que j'aime plus particulièrement c'est la sensation que procurent les moments où l'on déconnecte de tout le reste, où l'on profite du lieu, que ce soit sur la côte Est Australienne ou bien en bivouac sur les routes d'Auvergne.
 
 # Mon rapport à mon travail
 
@@ -94,9 +94,9 @@ Aujourd'hui nous sommes nombreux à pouvoir faire notre travail depuis chez nous
 
 Le télétravail ne peut pas convenir à tout le monde, seulement 4/10 des métiers en France (_selon le ministère_) peuvent être fait à distance, il faut aussi prendre en compte l'environnement personnel de chacun. Ce que je veux évoquer ce sont les bienfaits que cela m'apporter, personnellement, de récupérer du contrôle sur mon rythme.
 
-Un rythme de vie, que je peux orchestrer avec plus de souplesse en venant, dans la mesure du possible, y réduire peu à peu le temps qu'occupe le travail, en mettant en place du 4/5 dans la mesure du possible sur certaines missions, réduisant mon stress en gagnant en qualité de vie, avoir plus de temps pour découvrir de nouvelles choses, d'apprendre de nouvelles choses comme par exemple la photographie qui j'ai découvert en prenant de la distance avec mon métier laissant de la place pour d'autres passions.
+Un rythme de vie, que je peux orchestrer avec plus de souplesse en venant, dans la mesure du possible, y réduire peu à peu le temps qu'occupe le travail, en mettant en place du 4/5 sur certaines missions, réduisant mon stress en gagnant en qualité de vie, avoir plus de temps pour découvrir de nouvelles choses, d'apprendre de nouvelles choses comme par exemple la photographie qui j'ai découvert en prenant de la distance avec mon métier laissant de la place pour d'autres passions.
 
-Ce nouveau rythme, qui me laisse le soin de m'écouter, de respirer, d'admirer tout en continuant d'effectuer un travail qui me passionne, donne une alternance bien plus vivable que d'être uniquement dans ma bulle de travail.
+Ce nouveau rythme, qui me laisse le soin de m'écouter, de respirer, d'admirer. Tout ceci en continuant d'effectuer un travail qui me passionne, donne une alternance bien plus vivable que d'être uniquement dans ma bulle de travail.
 
 Ce long voyage de 2019 m'a permis de prendre du recul sur mon rapport que j'ai avec le travail, je n'imaginais pas partir aussi longtemps sans travailler, je suis même parti avec un projet à terminer. Le travail semblait me définir et je ne pensais pouvoir me définir autrement qu'au travers mon métier. Être développeur, me passionne, me fais vivre et reste nécessaire à ma "survie" mais j'ai pris conscience qu'il est agréable, important, même vital, de garder du temps pour toutes autres activités, chercher du divertissement, de l'épanouissement et aller se nourrir de nouvelles expériences.
 
