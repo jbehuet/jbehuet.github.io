@@ -1,8 +1,8 @@
 [
   {
-    "name": "WCLoc",
+    "name": "wcloc",
     "details": [
-      "Espace client WCLoc",
+      "Espace client wcloc",
       "- ReactJS / Styled Components / TypeScript / React Query",
       "- Développement & intégration"
     ],
