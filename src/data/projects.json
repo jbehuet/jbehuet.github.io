@@ -1,5 +1,19 @@
 [
   {
+    "name": "WCLoc",
+    "details": [
+      "Espace client WCLoc",
+      "- ReactJS / Styled Components / TypeScript / React Query",
+      "- Développement & intégration"
+    ],
+    "imageName": "wcloc",
+    "link": {
+      "text": "clients.wcloc.com",
+      "url": "https://clients.wcloc.com/"
+    },
+    "background": "#008B92"
+  },
+  {
     "name": "Château Edmus",
     "details": [
       "Site web du Château Edmus",
