@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://jbehuet.github.io/sitemap.xml
+Host: https://jbehuet.github.io

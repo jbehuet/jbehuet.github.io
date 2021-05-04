@@ -1,0 +1,57 @@
+[
+  {
+    "title": "Développeur freelance",
+    "duration": "Depuis Février 2017, DEEXIT",
+    "details": [
+      "Concevoir et réaliser différents projets",
+      "Développements spécifiques",
+      "Soutien technique",
+      "Formation"
+    ]
+  },
+  {
+    "title": "Formateur JavaScript",
+    "duration": "Août 2015 à Février 2017, WildCodeSchool",
+    "details": [
+      "Concevoir et animer des ateliers, cours et dojos",
+      "Gestion des projets"
+    ]
+  },
+  {
+    "title": "Responsable développement produit",
+    "duration": "Octobre 2013 à août 2015, Linaware",
+    "details": [
+      "En charge du développement de solution RIA de supervision industrielle",
+      "NodeJS | AngularJS | Polymer | C# | Python"
+    ]
+  },
+  {
+    "title": "Ingénieur R&D",
+    "duration": "Décembre 2010 à Septembre 2013, net-Sense",
+    "details": [
+      "Développement d'applications Android",
+      "Développement d'applications plateforme R-Link (Android & TomTom pour Renault)",
+      "Administration système",
+      "Gestion du parc physique et virtuel",
+      "Elaboration de solution d'architecture serveur"
+    ]
+  },
+  {
+    "title": "Développeur .Net",
+    "duration": "Janvier 2009 à Décembre 2010, SQI",
+    "details": [
+      "Développement d'un BackOffice en ASP.Net lié au système HR Access pour le groupe VINCI",
+      "Développement d'outils de gestion avec lecteurs optique",
+      "Module CRM pour une application de gestion d'affaires"
+    ]
+  },
+  {
+    "title": "Développeur .Net",
+    "duration": "Mars 2008 à Décembre 2008, Verlinde",
+    "details": [
+      "Développement d'application d'aide à la production",
+      "Suivi des commandes SAV",
+      "Automatisation de l'edition des bons de mise en production"
+    ]
+  }
+]
