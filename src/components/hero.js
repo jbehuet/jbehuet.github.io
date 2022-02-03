@@ -15,8 +15,8 @@ const Hero = () => {
     age +
     ',\n' +
     '   "location": "Bordeaux",\n' +
-    '   "description": "Self-Taught Programmer | Freelance",\n' +
-    '   "skills": ["JavaScript"],\n' +
+    '   "description": "Lead Tech. | Developer | Freelance",\n' +
+    '   "skills": ["JavaScript", "TypeScript"],\n' +
     '   "organizer": ["BDX I/O", "BordeauxJS"]\n' +
     '}';
   return (
