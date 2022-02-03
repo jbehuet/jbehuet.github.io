@@ -1,0 +1,120 @@
+[
+  {
+    "name": "Château Edmus",
+    "details": [
+      "Site web du Château Edmus",
+      "En collaboration avec Céline DAFFE",
+      "- GatsbyJS / Prismic.io / JavaScript / SASS",
+      "- Intégration & développement"
+    ],
+    "imageName": "edmus",
+    "link": {
+      "text": "chateauedmus.com",
+      "url": "https://www.chateauedmus.com/"
+    },
+    "background": "#000"
+  },
+  {
+    "name": "Toutlevin",
+    "details": [
+      "Média en ligne sur la thématique du vin.",
+      "- Re-structuration l'application existante ",
+      "- NodeJS / GraphQL / Neo4J / JavaScript",
+      "- Intégration"
+    ],
+    "imageName": "toutlevin",
+    "link": {
+      "text": "toutlevin.com",
+      "url": "https://www.toutlevin.com/"
+    },
+    "background": "#cb0e5e"
+  },
+  {
+    "name": "Linguali",
+    "details": [
+      "Application d’interprétariat simultané de conférence sur smartphones.",
+      "- Support au développement de l’application participant & interprète (React)",
+      "- Intégration (SASS)",
+      "- Intégrations JavaScript du SDK Dolby"
+    ],
+    "imageName": "linguali",
+    "link": {
+      "text": "linguali.com",
+      "url": "https://www.linguali.com/"
+    },
+    "background": "#2ba517"
+  },
+  {
+    "name": "Voxeet",
+    "details": [
+      "Application d’audio / vidéo conférence.",
+      "- Amélioration / Correction de l’application existante (React)",
+      "- Création de modules React (@voxeet/react-components)",
+      "- Création de modules AngularJS (@voxeet/angular-widget)",
+      "- Développement portail développeur et back-office interne (React)"
+    ],
+    "imageName": "voxeet",
+    "link": {
+      "text": "voxeet.com",
+      "url": "https://www.voxeet.com/"
+    },
+    "background": "#3054b6"
+  },
+  {
+    "name": "Wizim",
+    "details": [
+      "Développement d'une application de gestion des intérimaires par une agence (proposition de mission, gestion des disponibilités, recherche de profils, etc.).",
+      "- REST API, React, NodeJS, Express.JS, MongoDB"
+    ],
+    "imageName": "wizim",
+    "link": {
+      "text": "app.wizim.io",
+      "url": "https://app.wizim.io/"
+    },
+    "background": "#4499ae"
+  },
+  {
+    "name": "Simlearn",
+    "details": [
+      "Création d’une plateforme de création de jeux narratif.",
+      "> Editeur de scénarios",
+      "> Moteur de jeux",
+      "- REST API, React, NodeJS, Express.JS, MongoDB"
+    ],
+    "imageName": "simlearn",
+    "background": "#62aab4"
+  },
+  {
+    "name": "Simlearn",
+    "details": [
+      "Création d’un quizz sous forme d'un jeu de carte entièrement paramétrable.",
+      "> Editeur de quizz",
+      "> Jeux de carte",
+      "- REST API, React, NodeJS, Express.JS, MongoDB"
+    ],
+    "imageName": "card-game",
+    "background": "#4abf93"
+  },
+  {
+    "name": "Kihon",
+    "details": [
+      "Développement d'une application progressive (PWA) sur le thème de l’Aïkido",
+      "- React, NodeJS"
+    ],
+    "imageName": "kihon",
+    "background": "#c82d3a",
+    "link": {
+      "text": "kihon.fr",
+      "url": "https://kihon.fr"
+    }
+  },
+  {
+    "name": "Ouiexpat",
+    "details": [
+      "Création d’un POC d’une plateforme pour préparer son expatriation.",
+      "– REST API, Angular, NodeJS, Express.JS"
+    ],
+    "imageName": "ouiexpat",
+    "background": "#4cb384"
+  }
+]
