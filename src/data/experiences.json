@@ -1,17 +1,70 @@
 [
   {
-    "title": "Développeur freelance",
-    "duration": "Depuis Février 2017, DEEXIT",
+    "title": "Développeur senior",
+    "duration": "depuis juin 2022, CRIT France · Freelance",
     "details": [
-      "Concevoir et réaliser différents projets",
-      "Développements spécifiques",
-      "Soutien technique",
-      "Formation"
+      "- AWS Lambda · Amazon DynamoDB · API Gateways",
+      "- Go · Node.js · React.js"
+    ]
+  },
+  {
+    "title": "Développeur senior",
+    "duration": "depuis mars 2020, L'agence Toutlevin · Freelance",
+    "details": [
+      "Média en ligne sur la thématique du vin.",
+      "- Re-structuration l'application existante",
+      "- NodeJS / GraphQL / MongoDB",
+      "- NextJS"
+    ]
+  },
+  {
+    "title": "Technical leader",
+    "duration": "oct. 2021 - avr. 2022, ALTAVIA · Freelance",
+    "details": [
+      "Projet de pré-média.",
+      "- NestJS / Jest / MongoDB",
+      "- ReactJS / Styled Components / TypeScript / React Query / Jest / Cypress",
+      "- Lead d'une équipe de 5 développeurs"
+    ]
+  },
+  {
+    "title": "Développeur frontend senior",
+    "duration": "janv. 2021 - avr. 2021, Engie · Freelance",
+    "details": [
+      "Espace client wcloc",
+      "- ReactJS / Styled Components / TypeScript / React Query",
+      "- Développement & intégration"
+    ]
+  },
+  {
+    "title": "Développeur senior",
+    "duration": "déc. 2017 - déc. 2020, Wizim · Freelance",
+    "details": [
+      "Développement d'une application de gestion des intérimaires par une agence (proposition de mission, gestion des disponibilités, recherche de profils, etc.).",
+      "- REST API, React, NodeJS, Express.JS, NextJS, MongoDB"
+    ]
+  },
+  {
+    "title": "Développeur frontend senior",
+    "duration": "mai 2017 - févr. 2020, Voxeet // Dolby · Freelance",
+    "details": [
+      "Application d’audio / vidéo conférence.",
+      "- Amélioration / Correction de l’application existante (React)",
+      "- Création de modules React (@voxeet/react-components)",
+      "- Création de modules AngularJS (@voxeet/angular-widget)",
+      "- Développement portail développeur et back-office interne (React)"
+    ]
+  },
+  {
+    "title": "Développeur frontend senior",
+    "duration": "mars 2017 - mai 2017, WSB Agency · Freelance",
+    "details": [
+      "Projet pour la SNCF sous AngularJS"
     ]
   },
   {
     "title": "Formateur JavaScript",
-    "duration": "Août 2015 à Février 2017, WildCodeSchool",
+    "duration": "août 2015 - févr. 2017, WildCodeSchool",
     "details": [
       "Concevoir et animer des ateliers, cours et dojos",
       "Gestion des projets"
@@ -19,7 +72,7 @@
   },
   {
     "title": "Responsable développement produit",
-    "duration": "Octobre 2013 à août 2015, Linaware",
+    "duration": "oct. 2013 - août 2015, Linaware",
     "details": [
       "En charge du développement de solution RIA de supervision industrielle",
       "NodeJS | AngularJS | Polymer | C# | Python"
@@ -27,7 +80,7 @@
   },
   {
     "title": "Ingénieur R&D",
-    "duration": "Décembre 2010 à Septembre 2013, net-Sense",
+    "duration": "déc. 2010 - sept. 2013, net-Sense",
     "details": [
       "Développement d'applications Android",
       "Développement d'applications plateforme R-Link (Android & TomTom pour Renault)",
@@ -38,7 +91,7 @@
   },
   {
     "title": "Développeur .Net",
-    "duration": "Janvier 2009 à Décembre 2010, SQI",
+    "duration": "janv. 2009 - déc. 2010, SQI",
     "details": [
       "Développement d'un BackOffice en ASP.Net lié au système HR Access pour le groupe VINCI",
       "Développement d'outils de gestion avec lecteurs optique",
@@ -47,7 +100,7 @@
   },
   {
     "title": "Développeur .Net",
-    "duration": "Mars 2008 à Décembre 2008, Verlinde",
+    "duration": "mars 2008 - déc. 2008, Verlinde",
     "details": [
       "Développement d'application d'aide à la production",
       "Suivi des commandes SAV",
