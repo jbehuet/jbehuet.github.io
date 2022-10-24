@@ -3,8 +3,8 @@
     "title": "Développeur senior",
     "duration": "depuis juin 2022, CRIT France · Freelance",
     "details": [
-      "- AWS Lambda · Amazon DynamoDB · API Gateways",
-      "- Go · Node.js · React.js"
+      "AWS Lambda · Amazon DynamoDB · API Gateways",
+      "Go · Node.js · React.js"
     ]
   },
   {
@@ -12,9 +12,9 @@
     "duration": "depuis mars 2020, L'agence Toutlevin · Freelance",
     "details": [
       "Média en ligne sur la thématique du vin.",
-      "- Re-structuration l'application existante",
-      "- NodeJS / GraphQL / MongoDB",
-      "- NextJS"
+      "Re-structuration l'application existante",
+      "NodeJS · GraphQL · MongoDB",
+      "NextJS"
     ]
   },
   {
@@ -22,9 +22,9 @@
     "duration": "oct. 2021 - avr. 2022, ALTAVIA · Freelance",
     "details": [
       "Projet de pré-média.",
-      "- NestJS / Jest / MongoDB",
-      "- ReactJS / Styled Components / TypeScript / React Query / Jest / Cypress",
-      "- Lead d'une équipe de 5 développeurs"
+      "NestJS · Jest · MongoDB",
+      "ReactJS · Styled Components · TypeScript · React Query · Jest · Cypress",
+      "Lead d'une équipe de 5 développeurs"
     ]
   },
   {
@@ -32,8 +32,8 @@
     "duration": "janv. 2021 - avr. 2021, Enygea · Freelance",
     "details": [
       "Espace client wcloc",
-      "- ReactJS / Styled Components / TypeScript / React Query",
-      "- Développement & intégration"
+      "ReactJS · Styled Components · TypeScript · React Query",
+      "Développement & intégration"
     ]
   },
   {
@@ -41,7 +41,7 @@
     "duration": "déc. 2017 - déc. 2020, Wizim · Freelance",
     "details": [
       "Développement d'une application de gestion des intérimaires par une agence (proposition de mission, gestion des disponibilités, recherche de profils, etc.).",
-      "- REST API, React, NodeJS, Express.JS, NextJS, MongoDB"
+      "REST API · React · NodeJS · Express.JS · NextJS · MongoDB"
     ]
   },
   {
@@ -49,10 +49,10 @@
     "duration": "mai 2017 - févr. 2020, Voxeet // Dolby · Freelance",
     "details": [
       "Application d’audio / vidéo conférence.",
-      "- Amélioration / Correction de l’application existante (React)",
-      "- Création de modules React (@voxeet/react-components)",
-      "- Création de modules AngularJS (@voxeet/angular-widget)",
-      "- Développement portail développeur et back-office interne (React)"
+      "Amélioration / Correction de l’application existante (React)",
+      "Création de modules React (@voxeet/react-components)",
+      "Création de modules AngularJS (@voxeet/angular-widget)",
+      "Développement portail développeur et back-office interne (React)"
     ]
   },
   {
@@ -75,7 +75,7 @@
     "duration": "oct. 2013 - août 2015, Linaware",
     "details": [
       "En charge du développement de solution RIA de supervision industrielle",
-      "NodeJS | AngularJS | Polymer | C# | Python"
+      "NodeJS · AngularJS · Polymer · C# · Python"
     ]
   },
   {
